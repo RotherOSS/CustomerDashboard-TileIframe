@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otobo_package version="1.1">
+    <Name>TileIFrame</Name>
+    <Version>10.1.1</Version>
+    <Vendor>Rother OSS GmbH</Vendor>
+    <URL>https://rother-oss.com/</URL>
+    <License>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</License>
+    <Description Lang="en">Show an IFrame as a customer tile.</Description>
+    <Framework>11.0.x</Framework>
+    <BuildDate>2022-01-31</BuildDate>
+    <BuildHost>opms</BuildHost>
+    <Filelist>
+        <File Location="Kernel/Config/Files/XML/RotherOSS-IFrameTile.xml" Permission="660" />
+        <File Location="Kernel/Output/HTML/CustomerDashboard/TileIFrame.pm" Permission="660" />
+        <File Location="Kernel/Output/HTML/Templates/Standard/Dashboard/TileIFrame.tt" Permission="660" />
+    </Filelist>
+</otobo_package>
