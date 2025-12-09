@@ -7,13 +7,6 @@
             <Hash>
                 <Item Key="Order">2</Item>
                 <Item Key="Template">Dashboard/TileIFrame</Item>
-                <Item Key="Config">
-                    <Hash>
-                        <Item Key="Link">https://stats.uptimerobot.com/GX0mOcBp6Y</Item>
-                        <Item Key="FallbackText">IFrame error</Item>
-                        <Item Key="FallbackTitle">FHTW Services</Item>
-                    </Hash>
-                </Item>
             </Hash>
         </Value>
     </Setting>
