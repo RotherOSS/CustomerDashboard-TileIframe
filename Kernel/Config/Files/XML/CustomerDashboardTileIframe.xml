@@ -7,6 +7,13 @@
             <Hash>
                 <Item Key="Order">2</Item>
                 <Item Key="Template">Dashboard/TileIFrame</Item>
+                <Item Key="Config">
+                    <Hash>
+                        <Item Key="Link"></Item>
+                        <Item Key="FallbackText"></Item>
+                        <Item Key="FallbackTitle"></Item>
+                    </Hash>
+                </Item>
             </Hash>
         </Value>
     </Setting>
