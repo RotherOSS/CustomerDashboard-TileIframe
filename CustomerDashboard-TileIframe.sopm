@@ -6,11 +6,12 @@
     <URL>https://rother-oss.com/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</License>
     <Description Lang="en">Show an IFrame as a customer tile.</Description>
+    <PackageMerge TargetVersion="10.1.1" Name="TileIFrame"></PackageMerge>
     <Framework>11.0.x</Framework>
     <BuildDate>2022-01-31</BuildDate>
     <BuildHost>opms</BuildHost>
     <Filelist>
-        <File Location="Kernel/Config/Files/XML/RotherOSS-IFrameTile.xml" Permission="660" />
+        <File Location="Kernel/Config/Files/XML/CustomerDashboardTileIframe.xml" Permission="660" />
         <File Location="Kernel/Output/HTML/CustomerDashboard/TileIFrame.pm" Permission="660" />
         <File Location="Kernel/Output/HTML/Templates/Standard/Dashboard/TileIFrame.tt" Permission="660" />
     </Filelist>
